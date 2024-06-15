@@ -13,8 +13,10 @@ SegmentTreeProject/
 ├── NumberAnalyzer.java
 ├── NumberAnalyzerByArrays.java
 ├── NumberAnalyzerByTrees.java
+├── SegmentTree.java
 ├── SegmentTreeByArray.java
 ├── SegmentTreeByTree.java
+├── SegmentTreeNode.java
 ├── SummationSegmentTreeByArray.java
 ├── SummationSegmentTreeByTree.java
 ├── Tester.java
